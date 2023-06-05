@@ -25,5 +25,5 @@ for table in tables:
 # Confimarndo as alterações
 conn.commit()
 
-# Fechando as conexões com o banco 
+# Fechando a conexão com o banco 
 conn.close()
